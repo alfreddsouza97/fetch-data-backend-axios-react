@@ -1,8 +1,8 @@
-# React + Vite
+# Fetch Data From Backend using Axios and Displayed Data on the FrontEnd with React Web Application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The backend web server API used : https://sum-server.100xdevs.com/todo?id=_    where id can range from 1 to 5
+Tools used: React.JS, Axios, Node.JS, JavaScript, JSON, XML, HTML, CSS REST API, Visual Studio Code
 
-Currently, two official plugins are available:
+- https://www.linkedin.com/in/alfred-d-92957988/
+- https://github.com/alfreddsouza97
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
